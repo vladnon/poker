@@ -7,7 +7,7 @@ from option import Option
 from player import Player
 from poker_math import PokerMath
 
-# if u want to, u can make menu, where the player will choose stackes and blinds, and if its realy important for u can write poker for 6+ player, not just heads up, its not too hard for u
+#    if u want to, u can make menu, where the player will choose stackes and blinds, and if its realy important for u can write poker for 6+ player, not just heads up, its not too hard for u
 
 
 class Game:
