@@ -1,2 +1,2 @@
 # poker
-Poker game with gto solver
+Poker game with gto solver as enemy
